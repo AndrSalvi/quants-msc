@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
+title: Introduction to Quantitative Statistical Methods - PO8006
+description: Repository with teaching material for the tutorials of the module "Introduction to Quantitative Statistical Methods" (PO8006)
+
