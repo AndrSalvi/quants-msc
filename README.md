@@ -15,7 +15,7 @@ WORK IN PROGRESS
 ### Communication and Office Hours
 For questions about the lectures or tutorials you *can either send me an email or join the Slack channel* I have set up for the course. Slack is a workspace hub with amazing chat features that allow for a quick and efficient communication. The idea behind this is to create a virtual space where you can ask questions that me and your colleague will be able to see as well (use emails for private communication!). For a fancier description on slack click [HERE](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-).
 
-How to join? Just click [HERE and use to TCD email to log in](https://join.slack.com/t/quants-msc/shared_invite/enQtNTAzNjIwODQwMjA4LTA4MzIxMzA2MTcwNjczZjNhZDk4ZjJkZWI3YTIzY2JkMjVhZGE2NTM4NzVjMmViNzAwYmVkYmQ4YjViY2FkYjk)].
+How to join? Just click [HERE and use to TCD email to log in](https://join.slack.com/t/quants-msc/shared_invite/enQtNTAzNjIwODQwMjA4LTA4MzIxMzA2MTcwNjczZjNhZDk4ZjJkZWI3YTIzY2JkMjVhZGE2NTM4NzVjMmViNzAwYmVkYmQ4YjViY2FkYjk).
 **Please avoid using nicknames**.
 
 <p align="center">
