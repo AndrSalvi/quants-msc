@@ -23,3 +23,49 @@ How to join? Just click [HERE and use to TCD email to log in](https://join.slack
 </p>
 
 In general, I scheduled my office hours on **Tuesdays from 15 to 16 (*ONLY* upon request)**. While I am certainly happy to meet students, I would encourage you to bring up doubts, questions or issues of sort during tutorials.
+
+### Get and install STATA
+
+This course is based on STATA. It is relatively easy to use. Stata is available on the computers in the Beckett Lab and the Ussher Lab, and possibly other computer labs on campus. A cheap student version of the software package is available directly from [Stata's Website](http://www.stata.com/order/new/edu/gradplans/student-pricing/). You are free to use alternative (and free) statistical software such as [R](https://www.r-project.org) or [JASP](https://jasp-stats.org) but it is your responsibility both to learn the package (i.e., no assistance will be guaranteed by either the instructors or the teaching assistant) and to use the package to complete the module’s assignments.
+
+### Online Support and Resources
+
+While we will cover a lot of the STATA functions in the tutorials, for your homework and research project you will very likely need additional functions.
+
+#### STATA
+
+- [LSE Stata Tutorials](http://www.lse.ac.uk/Methodology/Software-tutorials/Stata-tutorials): Stata tutorials from LSE
+- [Resources for STATA](https://www.stata.com/links/resources-for-learning-stata/): Official website
+
+#### R
+
+- [UCLA Tutorials for R, Stata and SAS](https://stats.idre.ucla.edu/other/dae/): Very useful tutorials for the most important statistical analyses.
+- [Swirl](http://swirlstats.com): Simulates an R workspace allowing you to learn R in R.
+- [Moderndive](http://www.moderndive.com): A great interactive introduction to data visualisation and modelling in R.
+- [Stackoverflow](https://stackoverflow.com/questions/tagged/r): Here you will find almost all answers to specific questions.
+
+## Information on submitting assignments
+
+Throughout the course you will need to submit 8 assignments. You are free to conduct the homework with STATA or an alternative statistical software (for example SPSS or R, but _not_ Excel).
+
+Some general rules:
+1. The assignments must be typed into a LaTeX or Word/Open Office document and submitted as a PDF via Turnitin. Screenshots of the STATA output are _not_ sufficient as you will need to describe and interpret the results and procedures.
+
+2. If you include tables, do not use a screenshot, but **"export"** it (we will discuss this in class). Please save figures appropriately in [high resolution](https://thepoliticalmethodologist.com/2013/11/25/making-high-resolution-graphics-for-academic-publishing/) (We recommend PDF as vector graphic formats have the best possible quality).
+
+3. Add the contents of the Stata do file/SPSS Syntax file/R script file at the end of your document. It is good academic practice to present the full code and replication script.
+
+
+## Useful links for each tutorial
+
+Below I post a selection of useful links for each tutorial. If you found additional material that might be useful, either open a [pull request on GitHub](https://help.github.com/articles/about-pull-requests/) or let me know via email/slack.
+
+## Michaelmas Term
+
+### Tutorial 1, MT
+
+#### Tutorial Material
+Coming soon
+
+##### Guides:
+Coming soon
