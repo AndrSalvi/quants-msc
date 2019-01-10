@@ -60,9 +60,9 @@ Some general rules:
 
 Below I post a selection of useful links for each tutorial. If you found additional material that might be useful, either open a [pull request on GitHub](https://help.github.com/articles/about-pull-requests/) or let me know via email/slack.
 
-## Michaelmas Term
+## Tutorials
 
-### Tutorial 1, MT
+### Tutorial 1
 
 #### Tutorial Material
 Coming soon
