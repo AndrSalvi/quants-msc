@@ -69,3 +69,8 @@ Coming soon
 
 ##### Guides:
 Coming soon
+
+### Research Projects
+
+- [Collection of political datasets](https://github.com/erikgahner/PolData)
+- [NSD Data Overview](http://www.nsd.uib.no/nsd/english/datatjenester.html)
