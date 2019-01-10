@@ -10,7 +10,7 @@ Should you have further queries, please do [get in touch with me](http://andrsal
 
 I prepared this Google Calendar with all the main deadlines and dates for the course. Feel free to add it to your Calendars.
 
-WORK IN PROGRESS
+<iframe src="https://calendar.google.com/calendar/embed?src=e4i4m9g7dd0enh8ufq9tj95mgs%40group.calendar.google.com&ctz=Europe%2FDublin" style="border: 0" width="600" height="550" frameborder="0" scrolling="no"></iframe>
 
 ### Communication and Office Hours
 For questions about the lectures or tutorials you *can either send me an email or join the Slack channel* I have set up for the course. Slack is a workspace hub with amazing chat features that allow for a quick and efficient communication. The idea behind this is to create a virtual space where you can ask questions that me and your colleague will be able to see as well (use emails for private communication!). For a fancier description on slack click [HERE](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-).
