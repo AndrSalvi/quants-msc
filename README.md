@@ -65,7 +65,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ### Tutorial 1
 
 #### Tutorial Material
-Coming soon
+- Handout 1[https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout1.pdf]
 
 ##### Guides:
 Coming soon
