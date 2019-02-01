@@ -65,7 +65,9 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ### Tutorial 1
 
 #### Tutorial Material
-- Handout 1[https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout1.pdf]
+- Handout 1 [https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout1.pdf]
+- Data dta [https://github.com/AndrSalvi/quants-msc/blob/master/data/gss2012.dta]
+
 
 ##### Guides:
 Coming soon
