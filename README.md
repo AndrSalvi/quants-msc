@@ -65,12 +65,16 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ### Tutorial 1
 
 #### Tutorial Material
-- Handout 1 [https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout1.pdf]
-- Data dta [https://github.com/AndrSalvi/quants-msc/blob/master/data/gss2012.dta]
-
+- [Handout 1](https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout1.pdf)
+- [An example of .dta: gss2012 data](https://github.com/AndrSalvi/quants-msc/blob/master/data/gss2012.dta)
+- [An example of excel data: ](https://github.com/AndrSalvi/quants-msc/blob/master/data/GDPpercapita2001.xlsx)
+- [An example of SPSS data](https://github.com/AndrSalvi/quants-msc/blob/master/data/UCDP.sav)
 
 ##### Guides:
-Coming soon
+- [Getting Data Into STATA](http://tutorials.iq.harvard.edu/Stata/StataIntro/StataIntro.html#orgf2d51b2)
+- [Tidy Data: a brief review](https://medium.com/@JosiahParry/tidy-data-a-very-brief-review-6785e410d076)
+- [Basics of Stata](http://tutorials.iq.harvard.edu/Stata/StataIntro/StataIntro.html#orgaaa593a)
+- [Import Excel into STATA(Video)](https://www.youtube.com/watch?v=N5ZFgzN2_7c)
 
 ### Research Projects
 
