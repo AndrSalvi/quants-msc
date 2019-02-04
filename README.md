@@ -83,4 +83,4 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ### Aknowledgment 
 
-Handouts are partially based on the excellent notes by [Silvia Decadri](https://www.silviadecadri.com/] who taught this course in previous years.
+Handouts are partially based on the excellent notes by [Silvia Decadri](https://www.silviadecadri.com/) who taught this course in previous years.
