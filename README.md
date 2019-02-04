@@ -80,3 +80,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 - [Collection of political datasets](https://github.com/erikgahner/PolData)
 - [NSD Data Overview](http://www.nsd.uib.no/nsd/english/datatjenester.html)
+
+### Aknowledgment 
+
+Handouts are partially based on the excellent notes by [Silvia Decadri](https://www.silviadecadri.com/] who taught this course in previous years.
