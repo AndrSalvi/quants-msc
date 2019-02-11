@@ -62,6 +62,19 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ## Tutorials
 
+### Tutorial 2
+
+#### Tutorial Material
+- [Handout 2 - do file](https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout2.do)
+- [gss2012 data](https://github.com/AndrSalvi/quants-msc/blob/master/data/gss2012.dta)
+
+#### Guides: 
+
+- [Creating a grouped variable from a continuous variable](http://richmedia.lse.ac.uk/methodologyInstitute/20110916_Tutorial4.mp4)
+- [Mathematically transforming a variable](http://richmedia.lse.ac.uk/methodologyInstitute/20110916_Tutorial5.mp4)
+- [Describing a continuous variable: measures of central tendency and dispersion; histogram](http://richmedia.lse.ac.uk/methodologyInstitute/20110916_Tutorial8.mp4)
+- [Describing a categorical (ordinal) variable: frequency table; bar chart](http://richmedia.lse.ac.uk/methodologyInstitute/20110916_Tutorial9.mp4)
+- []
 ### Tutorial 1
 
 #### Tutorial Material
