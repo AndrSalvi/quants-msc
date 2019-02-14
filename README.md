@@ -62,6 +62,13 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ## Tutorials
 
+### Tutorial 3
+
+#### Tutorial Material
+- [Handout 3 - do file](https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout3.do]
+- [nes2012 data](https://github.com/AndrSalvi/quants-msc/blob/master/data/nes2012.dta)
+- [states data](https://github.com/AndrSalvi/quants-msc/blob/master/data/states.dta)
+
 ### Tutorial 2
 
 #### Tutorial Material
