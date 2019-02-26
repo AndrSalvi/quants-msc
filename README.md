@@ -60,6 +60,10 @@ Some general rules:
 
 Below I post a selection of useful links for each tutorial. If you found additional material that might be useful, either open a [pull request on GitHub](https://help.github.com/articles/about-pull-requests/) or let me know via email/slack.
 
+## Data Pack
+
+- [Full Data Pack from Pollock](https://github.com/AndrSalvi/quants-msc/raw/master/data/quants_data.zip)
+
 ## Tutorials
 
 ### Tutorial 4
