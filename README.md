@@ -66,6 +66,21 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ## Tutorials
 
+### Tutorial 5
+- [Handout 4 - do file](https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout5.do)
+- [nes2012 data](https://github.com/AndrSalvi/quants-msc/blob/master/data/nes2012.dta)
+
+#### Guides:
+- [Student's t-test explained](https://www.youtube.com/watch?v=pTmLQvMM-1M)
+- [Calculate t-test by hand](http://www.statisticshowto.com/probability-and-statistics/t-test/)
+- [Hypothesis Testing - Z test two-tailed example (VIDEO)](https://www.youtube.com/watch?v=0XXT3bIY_pw)
+- [Hypothesis Testing - T test one-tailed example (VIDEO)](https://www.youtube.com/watch?v=lNoxKsuJ6Xc)
+- [How (not) to interpret confidence intervals](https://www.mathbootcamps.com/interpreting-confidence-intervals/)
+- [Difference between standard deviation and standard error](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3148365/pdf/11999_2011_Article_1908.pdf)
+- [Simulate the distribution of sample means](http://onlinestatbook.com/stat_sim/sampling_dist/)
+
+
+
 ### Tutorial 4
 - [Handout 4 - do file](https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout4.do)
 - [nes2012 data](https://github.com/AndrSalvi/quants-msc/blob/master/data/nes2012.dta)
