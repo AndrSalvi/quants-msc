@@ -66,8 +66,18 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ## Tutorials
 
+### Tutorial 6
+- [Handout 6 - do file](https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout6.do)
+- [states data](https://github.com/AndrSalvi/quants-msc/blob/master/data/states.dta)
+- [nes2012 data](https://github.com/AndrSalvi/quants-msc/blob/master/data/nes2012.dta)
+
+### Guides: 
+- [Regression with Stata UCLA](https://stats.idre.ucla.edu/stata/webbooks/reg/chapter1/regressionwith-statachapter-1-simple-and-multiple-regression/)
+- [Regression 101 (Princeton)](https://www.princeton.edu/~otorres/Regression101.pdf)
+
+
 ### Tutorial 5
-- [Handout 4 - do file](https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout5.do)
+- [Handout 5 - do file](https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout5.do)
 - [nes2012 data](https://github.com/AndrSalvi/quants-msc/blob/master/data/nes2012.dta)
 
 #### Guides:
