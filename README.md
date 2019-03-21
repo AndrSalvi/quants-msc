@@ -66,6 +66,16 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ## Tutorials
 
+### Tutorial 7 
+- [Handout 7 - do file](https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout6.do)
+- [nes2012 data](https://github.com/AndrSalvi/quants-msc/blob/master/data/nes2012.dta)
+- [world data](https://github.com/AndrSalvi/quants-msc/blob/master/data/world.dta)
+
+### Guides
+- [Regression with Dummy Vars in STATA](https://stats.idre.ucla.edu/stata/webbooks/reg/chapter3/regression-with-statachapter-3-regression-with-categorical-predictors/)
+- [Interaction Effects: Food and condiment example](https://statisticsbyjim.com/regression/interaction-effects/)
+- [More on interaction effects](https://www.theanalysisfactor.com/interpreting-interactions-in-regression/)
+
 ### Tutorial 6
 - [Handout 6 - do file](https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout6.do)
 - [states data](https://github.com/AndrSalvi/quants-msc/blob/master/data/states.dta)
