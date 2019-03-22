@@ -67,7 +67,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ## Tutorials
 
 ### Tutorial 7 
-- [Handout 7 - do file](https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout6.do)
+- [Handout 7 - do file](https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout7.do)
 - [nes2012 data](https://github.com/AndrSalvi/quants-msc/blob/master/data/nes2012.dta)
 - [world data](https://github.com/AndrSalvi/quants-msc/blob/master/data/world.dta)
 
