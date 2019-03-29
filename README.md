@@ -66,6 +66,21 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ## Tutorials
 
+### Tutorial 8 
+- [Handout 8 - do file](https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout8.do)
+- [gss2012 data](https://github.com/AndrSalvi/quants-msc/blob/master/data/gss2012.dta)
+
+### Guides
+- [Pseudo R Squares](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-pseudo-r-squareds/)
+- [Interpretation of Dummy Variables (intuitive examples)](https://stattrek.com/multiple-regression/dummy-variables.aspx)
+- [Interpret Odds-Ratio in Logistic Regression](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
+- [Logistic Regression in STATA](https://stats.idre.ucla.edu/stata/dae/logistic-regression/)
+
+#### Data Manipulation:
+- [Data Manipulation with Stata, an example](https://libguides.library.nd.edu/data-analysis-stata/manipulation)
+- [Handling Data Files with Stata](http://wlm.userweb.mwn.de/Stata/wstatord.htm)
+- [Cleaning Data in Stata - University of Toronto](https://mdl.library.utoronto.ca/technology/tutorials/cleaning-data-stata)
+
 ### Tutorial 7 
 - [Handout 7 - do file](https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout7.do)
 - [nes2012 data](https://github.com/AndrSalvi/quants-msc/blob/master/data/nes2012.dta)
