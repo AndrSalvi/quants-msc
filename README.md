@@ -66,6 +66,16 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ## Tutorials
 
+
+
+### Tutorial 9
+- [Handout 9 - do file](https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout9.do)
+- [Panel101.dta](https://github.com/AndrSalvi/quants-msc/blob/master/data/Panel101.dta)
+
+### Guides
+- [Regression Outputs in STATA](https://www.princeton.edu/~otorres/Outreg2.pdf)
+- [Fixed Effects in STATA](https://www.princeton.edu/~otorres/Panel101.pdf)
+
 ### Tutorial 8 
 - [Handout 8 - do file](https://github.com/AndrSalvi/quants-msc/raw/master/handouts/PO8006_handout8.do)
 - [gss2012 data](https://github.com/AndrSalvi/quants-msc/blob/master/data/gss2012.dta)
